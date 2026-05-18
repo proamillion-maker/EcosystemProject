@@ -1,0 +1,7 @@
+x64/
+packages/
+.vs/
+*.rar
+*.exe
+Debug/
+Release/
